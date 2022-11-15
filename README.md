@@ -12,6 +12,7 @@ Resource created and managed by this module
 Example Usages
 
 <!-- BEGIN_TF_DOCS -->
+
 <!-- END_TF_DOCS -->
 
 ## Authors
