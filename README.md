@@ -4,12 +4,12 @@
 [![LICENSE](https://img.shields.io/github/license/tothenew/terraform-aws-ecs)](https://github.com/tothenew/terraform-aws-ecs/blob/master/LICENSE)
 
 The following content needed to be created and managed:
+ - Introduction
+     - Explaination of module 
+     - Intended users
+ - Resource created and managed by this module
+ - Example Usages
 
-Introduction
-Explaination of module
-Intended users
-Resource created and managed by this module
-Example Usages
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
